@@ -6,6 +6,10 @@
 
 An MCP server for converting Markdown documents to PDF files. This server provides a simple and efficient way to generate PDFs from Markdown content with support for syntax highlighting, custom styling, optional page numbers, and flexible watermark placement (first page only or all pages).
 
+<a href="https://glama.ai/mcp/servers/@LAMENTIS1/mcp_pdf">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@LAMENTIS1/mcp_pdf/badge" alt="Markdown2PDF Server MCP server" />
+</a>
+
 Inspired by Alan Shaw's [markdown-pdf](https://github.com/alanshaw/markdown-pdf).
 
 ## Features
